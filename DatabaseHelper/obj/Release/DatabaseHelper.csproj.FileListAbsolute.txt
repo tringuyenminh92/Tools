@@ -1,0 +1,4 @@
+C:\Users\Ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Tools\DatabaseHelper\bin\Release\DatabaseHelper.dll
+C:\Users\Ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Tools\DatabaseHelper\bin\Release\DatabaseHelper.pdb
+C:\Users\Ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Tools\DatabaseHelper\obj\Release\DatabaseHelper.dll
+C:\Users\Ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Tools\DatabaseHelper\obj\Release\DatabaseHelper.pdb
