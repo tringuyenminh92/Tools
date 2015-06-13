@@ -1,0 +1,4 @@
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\QueryableExtensionsHelper\bin\Debug\QueryableExtensionsHelper.dll
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\QueryableExtensionsHelper\bin\Debug\QueryableExtensionsHelper.pdb
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\QueryableExtensionsHelper\obj\Debug\QueryableExtensionsHelper.dll
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\QueryableExtensionsHelper\obj\Debug\QueryableExtensionsHelper.pdb

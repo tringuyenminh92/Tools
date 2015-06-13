@@ -13,3 +13,8 @@ C:\Users\Ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Tools\AES\bin\Debug\AES.pdb
 C:\Users\Ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Tools\AES\obj\Debug\AES.csprojResolveAssemblyReference.cache
 C:\Users\Ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Tools\AES\obj\Debug\AES.dll
 C:\Users\Ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Tools\AES\obj\Debug\AES.pdb
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\AES\bin\Debug\AES.dll
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\AES\bin\Debug\AES.pdb
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\AES\obj\Debug\AES.csprojResolveAssemblyReference.cache
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\AES\obj\Debug\AES.dll
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\AES\obj\Debug\AES.pdb

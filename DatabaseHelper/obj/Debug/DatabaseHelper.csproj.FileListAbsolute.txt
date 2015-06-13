@@ -3,3 +3,16 @@ C:\Users\Ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Tools\DatabaseHelper\bin\Debug\Da
 C:\Users\Ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Tools\DatabaseHelper\bin\Debug\DatabaseHelper.pdb
 C:\Users\Ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Tools\DatabaseHelper\obj\Debug\DatabaseHelper.dll
 C:\Users\Ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Tools\DatabaseHelper\obj\Debug\DatabaseHelper.pdb
+C:\Users\UR81HC\Documents\Visual Studio 2012\Projects\Tools\DatabaseHelper\obj\Debug\DatabaseHelper.csprojResolveAssemblyReference.cache
+C:\Users\UR81HC\Documents\Visual Studio 2012\Projects\Tools\DatabaseHelper\obj\Debug\DatabaseHelper.dll
+C:\Users\UR81HC\Documents\Visual Studio 2012\Projects\Tools\DatabaseHelper\obj\Debug\DatabaseHelper.pdb
+C:\Users\Ga9286\Desktop\Tools\DatabaseHelper\bin\Debug\DatabaseHelper.dll
+C:\Users\Ga9286\Desktop\Tools\DatabaseHelper\bin\Debug\DatabaseHelper.pdb
+C:\Users\Ga9286\Desktop\Tools\DatabaseHelper\obj\Debug\DatabaseHelper.csprojResolveAssemblyReference.cache
+C:\Users\Ga9286\Desktop\Tools\DatabaseHelper\obj\Debug\DatabaseHelper.dll
+C:\Users\Ga9286\Desktop\Tools\DatabaseHelper\obj\Debug\DatabaseHelper.pdb
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\DatabaseHelper\bin\Debug\DatabaseHelper.dll
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\DatabaseHelper\bin\Debug\DatabaseHelper.pdb
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\DatabaseHelper\obj\Debug\DatabaseHelper.csprojResolveAssemblyReference.cache
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\DatabaseHelper\obj\Debug\DatabaseHelper.dll
+C:\Users\BeGa\Dropbox\DropVox\C#\WorkSpaceC#\Tools\DatabaseHelper\obj\Debug\DatabaseHelper.pdb
